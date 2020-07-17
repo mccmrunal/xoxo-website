@@ -1,0 +1,38 @@
+.container{
+  height: 80px;
+  width: 800px;
+}
+
+.jumbotron{
+  background-color: #f9d56e;
+  color:#e8505b;
+  text-align: center;
+}
+.btn.btn-primary.btn-brand.float-right{
+
+  background-color: #14b1ab;
+  color:white;
+  border-color: black;
+  border-width: 2px;
+
+}
+th{
+  border:solid #fa7d09 5px;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  font-size: 50px;
+    color:#111d5e;
+}
+table{
+margin-left: auto;
+margin-right: auto;}
+#footer {
+    right: 5%;
+    bottom: 0%;
+    top: 90%;
+    position: fixed;
+    text-align: right;
+    font-weight:bolder;
+
+}
